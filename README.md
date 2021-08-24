@@ -1,3 +1,14 @@
+# Detailed regarding this fork
+
+Here we expand the known messages to include
+
+Type 14 (Used for PLB / "Safety Related Broadcast" Messages)
+
+Type 21 (Used for AtoNs - "Aid to Navigation" Messages)
+
+These edits are released under the same license as their source.
+
+
 # AIS.NET Projects
 
 | Package                                                                        | Status                                                                                                                                                                                                                                                                                         |
